@@ -21,7 +21,7 @@ I am enthusiastic about contributing my expertise to dynamic and innovative proj
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yousra-terrab-777735203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousra-terrab-777735203/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/yousra21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yousra21/" height="30" width="40" /></a>
-<a href="mailto:yousraterrab44@gmail.com"> <img src="gmail.png" alt="Email" width="40" height="30"></a>
+<a href="mailto:yousraterrab44@gmail.com"> <img align="center" src="gmail.png" alt="Email" width="40" height="30"></a>
 </p>
 
 
